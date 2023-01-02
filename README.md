@@ -27,10 +27,6 @@ git clone https://github.com/m1n64/onlinestore-iquadart-test.git
 cd onlinestore-iquadart-test/
 ```
 ```bash
-cp .env.local .env
-```
-
-```bash
 #create database with name `onlinestore`
 mysql -u root -p -e "CREATE DATABASE onlinestore"
 ```
