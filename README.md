@@ -32,7 +32,7 @@ mysql -u root -p -e "CREATE DATABASE onlinestore"
 ```
 
 ```
-if you'r mysql password not a default, 
+if you'r mysql password not a 'password' or not a default, 
 in .env file add your password in line 
 DB_PASSWORD=
 ```
