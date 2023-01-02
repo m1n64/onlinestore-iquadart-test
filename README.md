@@ -81,3 +81,11 @@ php artisan serve
 Now, open in browser link [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ******
+
+### Demo
+
+
+https://user-images.githubusercontent.com/24874264/210282812-ea4f5bc4-648c-4f62-8da2-f366ebe4d85a.mp4
+
+
+******
